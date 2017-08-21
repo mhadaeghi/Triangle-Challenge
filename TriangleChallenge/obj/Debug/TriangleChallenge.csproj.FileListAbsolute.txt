@@ -1,0 +1,18 @@
+c:\users\mohammad\documents\visual studio 2015\Projects\TriangleChallenge\TriangleChallenge\bin\Debug\TriangleChallenge.exe.config
+c:\users\mohammad\documents\visual studio 2015\Projects\TriangleChallenge\TriangleChallenge\bin\Debug\TriangleChallenge.exe
+c:\users\mohammad\documents\visual studio 2015\Projects\TriangleChallenge\TriangleChallenge\bin\Debug\TriangleChallenge.pdb
+c:\users\mohammad\documents\visual studio 2015\Projects\TriangleChallenge\TriangleChallenge\obj\Debug\TriangleChallenge.csprojResolveAssemblyReference.cache
+c:\users\mohammad\documents\visual studio 2015\Projects\TriangleChallenge\TriangleChallenge\obj\Debug\TriangleChallenge.findingTriangleType.resources
+c:\users\mohammad\documents\visual studio 2015\Projects\TriangleChallenge\TriangleChallenge\obj\Debug\TriangleChallenge.Properties.Resources.resources
+c:\users\mohammad\documents\visual studio 2015\Projects\TriangleChallenge\TriangleChallenge\obj\Debug\TriangleChallenge.csproj.GenerateResource.Cache
+c:\users\mohammad\documents\visual studio 2015\Projects\TriangleChallenge\TriangleChallenge\obj\Debug\TriangleChallenge.exe
+c:\users\mohammad\documents\visual studio 2015\Projects\TriangleChallenge\TriangleChallenge\obj\Debug\TriangleChallenge.pdb
+C:\Users\Mohammad\Desktop\JOB\interview\TradeShift\Triangle Challenge\Triangle-Challenge\TriangleChallenge\bin\Debug\TriangleChallenge.exe.config
+C:\Users\Mohammad\Desktop\JOB\interview\TradeShift\Triangle Challenge\Triangle-Challenge\TriangleChallenge\obj\Debug\TriangleChallenge.exe
+C:\Users\Mohammad\Desktop\JOB\interview\TradeShift\Triangle Challenge\Triangle-Challenge\TriangleChallenge\obj\Debug\TriangleChallenge.pdb
+C:\Users\Mohammad\Desktop\JOB\interview\TradeShift\Triangle Challenge\Triangle-Challenge\TriangleChallenge\bin\Debug\TriangleChallenge.exe
+C:\Users\Mohammad\Desktop\JOB\interview\TradeShift\Triangle Challenge\Triangle-Challenge\TriangleChallenge\bin\Debug\TriangleChallenge.pdb
+C:\Users\Mohammad\Desktop\JOB\interview\TradeShift\Triangle Challenge\Triangle-Challenge\TriangleChallenge\obj\Debug\TriangleChallenge.csprojResolveAssemblyReference.cache
+C:\Users\Mohammad\Desktop\JOB\interview\TradeShift\Triangle Challenge\Triangle-Challenge\TriangleChallenge\obj\Debug\TriangleChallenge.findingTriangleType.resources
+C:\Users\Mohammad\Desktop\JOB\interview\TradeShift\Triangle Challenge\Triangle-Challenge\TriangleChallenge\obj\Debug\TriangleChallenge.Properties.Resources.resources
+C:\Users\Mohammad\Desktop\JOB\interview\TradeShift\Triangle Challenge\Triangle-Challenge\TriangleChallenge\obj\Debug\TriangleChallenge.csproj.GenerateResource.Cache

@@ -1,0 +1,16 @@
+C:\Users\Mohammad\Documents\Visual Studio 2015\Projects\TriangleChallenge\TriangleChallengeTests\bin\Debug\TriangleChallengeTests.dll
+C:\Users\Mohammad\Documents\Visual Studio 2015\Projects\TriangleChallenge\TriangleChallengeTests\bin\Debug\TriangleChallengeTests.pdb
+C:\Users\Mohammad\Documents\Visual Studio 2015\Projects\TriangleChallenge\TriangleChallengeTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Mohammad\Documents\Visual Studio 2015\Projects\TriangleChallenge\TriangleChallengeTests\bin\Debug\TriangleChallenge.exe
+C:\Users\Mohammad\Documents\Visual Studio 2015\Projects\TriangleChallenge\TriangleChallengeTests\bin\Debug\TriangleChallenge.pdb
+C:\Users\Mohammad\Documents\Visual Studio 2015\Projects\TriangleChallenge\TriangleChallengeTests\obj\Debug\TriangleChallengeTests.csprojResolveAssemblyReference.cache
+C:\Users\Mohammad\Documents\Visual Studio 2015\Projects\TriangleChallenge\TriangleChallengeTests\obj\Debug\TriangleChallengeTests.dll
+C:\Users\Mohammad\Documents\Visual Studio 2015\Projects\TriangleChallenge\TriangleChallengeTests\obj\Debug\TriangleChallengeTests.pdb
+C:\Users\Mohammad\Desktop\JOB\interview\TradeShift\Triangle Challenge\Triangle-Challenge\TriangleChallengeTests\bin\Debug\TriangleChallengeTests.dll
+C:\Users\Mohammad\Desktop\JOB\interview\TradeShift\Triangle Challenge\Triangle-Challenge\TriangleChallengeTests\bin\Debug\TriangleChallengeTests.pdb
+C:\Users\Mohammad\Desktop\JOB\interview\TradeShift\Triangle Challenge\Triangle-Challenge\TriangleChallengeTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Mohammad\Desktop\JOB\interview\TradeShift\Triangle Challenge\Triangle-Challenge\TriangleChallengeTests\bin\Debug\TriangleChallenge.exe
+C:\Users\Mohammad\Desktop\JOB\interview\TradeShift\Triangle Challenge\Triangle-Challenge\TriangleChallengeTests\bin\Debug\TriangleChallenge.pdb
+C:\Users\Mohammad\Desktop\JOB\interview\TradeShift\Triangle Challenge\Triangle-Challenge\TriangleChallengeTests\obj\Debug\TriangleChallengeTests.csprojResolveAssemblyReference.cache
+C:\Users\Mohammad\Desktop\JOB\interview\TradeShift\Triangle Challenge\Triangle-Challenge\TriangleChallengeTests\obj\Debug\TriangleChallengeTests.dll
+C:\Users\Mohammad\Desktop\JOB\interview\TradeShift\Triangle Challenge\Triangle-Challenge\TriangleChallengeTests\obj\Debug\TriangleChallengeTests.pdb
